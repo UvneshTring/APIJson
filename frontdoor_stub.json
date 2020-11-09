@@ -1,0 +1,257 @@
+{
+  "httpStatus": 200,
+  "message": "OK",
+  "head": {
+    "mpsConfig": {
+      "path": "/",
+      "cagLocale": null,
+      "cagPrimary": null,
+      "catTopics": null,
+      "isContent": true,
+      "isLanding": true,
+      "updateCorrelator": false,
+      "topCategory": null,
+      "adKeyword": null,
+      "contentId": -1,
+      "categoryType": "topics",
+      "type": "home"
+    },
+    "pageType": "frontDoorLanding",
+    "analytics": {
+      "accountKey": null,
+      "parameterMap": null
+    },
+    "pageConfig": {
+      "siteMeta": {
+        "description": "",
+        "title": "Frontdoor",
+        "classes": "",
+        "keywords": "",
+        "openGraphType": "",
+        "openGraphThumbnail": "",
+        "openGraphSiteName": "E! Online",
+        "openGraphTitle": "",
+        "openGraphDescription": "",
+        "openGraphUrl": "",
+        "openGraphAppId": "",
+        "openGraphVideoUrl": "",
+        "openGraphVideoType": "",
+        "openGraphVideoWidth": "",
+        "openGraphVideoHeight": "",
+        "openGraphImageWidth": "",
+        "openGraphImageHeight": "",
+        "contentItemType": "NONE",
+        "sailthruCId": "",
+        "sailthruEdCId": "",
+        "itemPropImage": "",
+        "printCanonicalUrl": false,
+        "canonicalUrl": null,
+        "alternateUrl": null,
+        "nextCanonicalUrl": null,
+        "prevCanonicalUrl": null,
+        "mobileUrl": null,
+        "ampUrl": null,
+        "printGooglebotNews": false,
+        "printRobots": false,
+        "hreflangLinks": [
+        ],
+        "categoryMeta": null,
+        "shareMessage": null,
+        "shareUrl": null,
+        "openGraphLocale": "",
+        "videoExpireDate": null,
+        "sailthruContentType": null,
+        "printTwitterCard": false,
+        "twitterCard": "",
+        "twitterSite": "",
+        "twitterTitle": "",
+        "twitterDescription": "",
+        "twitterImage": "",
+        "twitterUrl": "",
+        "printSwiftypeForVideo": false,
+        "printSwiftypeForPhoto": false,
+        "printSwiftypeForArticle": false,
+        "printSwifttypeForNoIndex": false,
+        "swiftPublishDate": "",
+        "swiftTitle": "",
+        "swiftBody": "",
+        "swiftImage": "",
+        "swiftCategories": null,
+        "swiftCategory": null,
+        "sailthruThumbnail": "",
+        "sailthruTitle": ""
+      }
+    },
+    "configOverride": null,
+    "arfAd": {
+      "adType": "taboola",
+      "taboolaEnabled": true
+    }
+  },
+  "body": {
+    "featuredContent": null,
+    "widgets": [
+      {
+        "id": 8158,
+        "widgetType": "LIVESTREAM",
+        "widgetName": "Front Door - Daily Livestream",
+        "publishDate": 1470759420000,
+        "expirationDate": 1470761700000,
+        "contentData": {
+          "id": "572ce896c4fac045c2ef6e58",
+          "name": "E! stream, presented by AT&T",
+          "autoplay": true,
+          "livestream": {
+            "fWAssetId": "eonline-prodfeed",
+            "fWProfileId": "169843:e_js_live",
+            "fWSSID": "e_online_prodfeed",
+            "fWNetworkID": "169843",
+            "autoplay": true,
+            "clickToPlayGraphic": {
+              "omnitureTitle": "rebrand---live-from-e-click-to-play",
+              "largeItem": false,
+              "id": "711554",
+              "caption": "",
+              "credits": "",
+              "title": "Rebrand - Live From E Click to Play",
+              "width": 919,
+              "height": 517,
+              "altDescription": null,
+              "altText": "Rebrand - Live From E Click to Play",
+              "contentItemType": "IMAGES",
+              "imgAlt": "Rebrand - Live From E Click to Play",
+              "imgTitle": "Rebrand - Live From E Click to Play",
+              "src": "https://eonlinethumbs-a.akamaihd.net/images/380/87/enews_20190201_highlight_b_283559_560x315_1436185667553.jpg"
+            },
+            "m3U8StreamUrl": "http://link.theplatform.com/s/BdHJDC/media/cWTEvWJx_lsR"
+          },
+          "clickToPlayGraphic": {
+            "omnitureTitle": "rebrand---live-from-e-click-to-play",
+            "largeItem": false,
+            "id": "711554",
+            "caption": "",
+            "credits": "",
+            "title": "Rebrand - Live From E Click to Play",
+            "width": 919,
+            "height": 517,
+            "altDescription": null,
+            "altText": "Rebrand - Live From E Click to Play",
+            "contentItemType": "IMAGES",
+            "imgAlt": "Rebrand - Live From E Click to Play",
+            "imgTitle": "Rebrand - Live From E Click to Play",
+            "src": "https://eonlinethumbs-a.akamaihd.net/images/380/87/enews_20190201_highlight_b_283559_560x315_1436185667553.jpg"
+          },
+          "m3U8StreamUrl": "http://link.theplatform.com/s/BdHJDC/media/cWTEvWJx_lsR"
+        },
+        "configOverride": {
+          "analytics": {
+            "eVar18VPName": "prodfeed",
+            "eVar39VideoName": "prodfeed"
+          }
+        }
+      },
+      {
+        "id": 63947,
+        "widgetType": "DOUBLE_TEASER",
+        "widgetName": "Double_01",
+        "publishDate": 1576217791116,
+        "contentData": {
+          "id": "5de8202708c26b03b66bc1d3",
+          "name": "Double Teaser Stacked LFD",
+          "adUnit": null,
+          "items": [
+            {
+              "snipeColor": "Red Breaking",
+              "relatedContentRef": "/arf/content/galleries.json?num={related_gallery_num}&categoryKey=awesome_category",
+              "pageType": "galleryDetail",
+              "link": "/arf/page/detail/galleries/19699.json",
+              "thumbnail": {
+                "omnitureTitle": null,
+                "id": null,
+                "caption": "",
+                "credits": null,
+                "title": "Test Image 600x450 Hedgehog",
+                "src": "https://akns-images.eonline.com/eol_images/Entire_Site/201872/rs_600x450-180802114301-hedgehog.jpg",
+                "width": 600,
+                "height": 450,
+                "altDescription": null,
+                "altText": "Test Image 600x450 Hedgehog",
+                "resizeUrl": "https://akns-images.eonline.com/eol_images/Entire_Site/201872/rs_600x450-180802114301-hedgehog.jpg?downsize=$width:*&crop=$width:$height;left,top"
+              },
+              "title": "Prabu's Gallery",
+              "snipe": "Photos",
+              "contentItemType": "PHOTO_GALLERIES",
+              "analyticsSection": "General Photos",
+              "summary": "",
+              "publishTitle": "Prabu's Gallery",
+              "adUnit": {
+                "showAdKeyword": false,
+                "showAdvertiser": false,
+                "showCustomByline": false,
+                "adKeyword": "",
+                "advertiser": "",
+                "customByline": ""
+              },
+              "displayPublishedDate": 1571103345000,
+              "omnitureTitle": "prabus-gallery",
+              "uri": "/photos/19699/prabu-s-gallery",
+              "id": "19699"
+            },
+            {
+              "snipeColor": "Red Breaking",
+              "relatedContentRef": "/arf/content/galleries.json?num={related_gallery_num}&categoryKey=top_photos",
+              "pageType": "galleryDetail",
+              "link": "/arf/page/detail/galleries/19808.json",
+              "thumbnail": {
+                "omnitureTitle": null,
+                "id": null,
+                "caption": "",
+                "credits": null,
+                "title": "Megan Markle Walking",
+                "src": "https://akns-images.eonline.com/eol_images/Entire_Site/2017910/rs_600x450-171010171526-Pasted_image_at_2017_10_10_05_09_PM.png",
+                "width": 600,
+                "height": 450,
+                "altDescription": null,
+                "altText": "Megan Markle Walking",
+                "resizeUrl": "https://akns-images.eonline.com/eol_images/Entire_Site/2017910/rs_600x450-171010171526-Pasted_image_at_2017_10_10_05_09_PM.png?downsize=$width:*&crop=$width:$height;left,top"
+              },
+              "portraitThumbnail": {
+                "omnitureTitle": null,
+                "id": null,
+                "caption": "test credit 2",
+                "credits": null,
+                "title": "Kim Kardashian",
+                "src": "https://akns-images.eonline.com/eol_images/Entire_Site/201971/rs_300x225-190801083431-rs_600x600-181113150934-kim-kardashian-1513-600.jpg",
+                "width": 300,
+                "height": 225,
+                "altDescription": null,
+                "altText": "Kim Kardashian",
+                "resizeUrl": "https://akns-images.eonline.com/eol_images/Entire_Site/201971/rs_300x225-190801083431-rs_600x600-181113150934-kim-kardashian-1513-600.jpg?downsize=$width:*&crop=$width:$height;left,top"
+              },
+              "title": "Tony Gallery",
+              "snipe": "Photos",
+              "contentItemType": "PHOTO_GALLERIES",
+              "analyticsSection": "General Photos",
+              "summary": "",
+              "publishTitle": "Tony Gallery",
+              "adUnit": {
+                "showAdKeyword": false,
+                "showAdvertiser": false,
+                "showCustomByline": false,
+                "adKeyword": "",
+                "advertiser": "",
+                "customByline": ""
+              },
+              "displayPublishedDate": 1572977867000,
+              "omnitureTitle": "tony-gallery",
+              "uri": "/photos/19808/tony-gallery",
+              "id": "19808"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
+
+
